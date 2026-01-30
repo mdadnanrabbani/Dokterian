@@ -1,16 +1,41 @@
-# doctorapp
+**🩺 Dokterian – Flutter UI Implementation**
 
-A new Flutter project.
+Dokterian is a Flutter UI project created as a practice-based implementation of a Figma design by UI Designer: Lokanaka.
+The goal of this project is to convert a real-world mobile UI design into a pixel-perfect Flutter interface using core layout and UI widgets.
 
-## Getting Started
+This project focuses on mastering Flutter UI building concepts such as:
 
-This project is a starting point for a Flutter application.
+- Row
+- Column
+- Stack
+- Container
+- CircleAvatar
 
-A few resources to get you started if this is your first Flutter project:
+Custom layout alignment & spacing
+and building a visually clean and responsive mobile interface.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+**Purpose of this Project**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**This project is built for**:
+
+- Practising Figma to Flutter UI conversion
+
+- Improving layout thinking and widget structuring
+
+- Understanding real-world UI composition
+
+- Building a strong UI portfolio for Flutter development
+
+It is not a functional medical app — it is a UI-only Flutter project meant for learning and showcasing layout skills.
+
+
+🎨 **Design Credit**
+
+All UI/UX design credits go to:
+Lokanaka (UI Designer)
+This Flutter project is only an implementation of the visual design for educational and practice purposes.
+
+**Tech Stack**
+- Flutter
+- Dart
+- Material UI Widgets
